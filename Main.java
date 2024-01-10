@@ -12,5 +12,11 @@ public class Main {
    
    // Output
    System.out.print("My name is " + name);
+
+System.out.print("Address: ");
+address = sc.nextLine();
+
+//Output
+System.out.print("I live in "+ address);
   }
 }
