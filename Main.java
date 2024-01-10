@@ -13,7 +13,7 @@ public class Main {
    // Output
    System.out.print("My name is " + name);
 
-System.out.print("Address: ");
+System.out.print("\nAddress: ");
 address = sc.nextLine();
 
 //Output
